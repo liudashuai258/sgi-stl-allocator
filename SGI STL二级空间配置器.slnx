@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SGI STL二级空间配置器/SGI STL二级空间配置器.vcxproj" />
+</Solution>
